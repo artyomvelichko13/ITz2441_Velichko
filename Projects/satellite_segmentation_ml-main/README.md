@@ -202,7 +202,7 @@ satellite-segmentation/
 
 ## 👨‍💻 Автор
 
-Артем - [GitHub](https://github.com/your-username)
+Артем - [GitHub](https://github.com/artyomvelichko13)
 
 ## 📄 Лицензия
 
